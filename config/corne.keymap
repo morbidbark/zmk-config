@@ -35,7 +35,7 @@
    &trans  &kp SQT     &kp COMMA   &kp DOT      &kp P        &kp Y    &kp F  &kp G        &kp C        &kp R       &kp L       &trans
    &trans  &mt LGUI A  &mt LALT O  &mt LCTRL E  &mt LSHFT U  &kp I    &kp D  &mt LSHFT H  &mt LCTRL T  &mt LALT N  &mt LGUI S  &trans
    &trans  &kp SEMI    &kp Q       &kp J        &kp K        &kp X    &kp B  &kp M        &kp W        &kp V       &kp Z       &trans
-                                   &kp ESC  &lt NUM_SYM SPACE  &kp TAB          &kp RET  &kp BSPC  &kp DEL
+                                   &lt FN ESC  &lt NUM_SYM SPACE  &kp TAB          &kp RET  &kp BSPC  &kp DEL
                         >;
                 };
                 num_sym {
