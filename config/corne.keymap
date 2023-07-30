@@ -13,6 +13,14 @@
 #define FN 2
 #define ABC_ALT 3
 
+// Configure behaviors
+
+&mt {
+		tapping-term-ms = <200>;
+		flavor = "tap-preferred";
+};
+
+
 / {
         keymap {
                 compatible = "zmk,keymap";
