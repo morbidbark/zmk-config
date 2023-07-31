@@ -21,6 +21,11 @@
 		retro-tap;
 };
 
+&lt {
+		tapping-term-ms = <200>;
+		flavor = "tap-preferred";
+		retro-tap;
+};
 
 / {
         keymap {
