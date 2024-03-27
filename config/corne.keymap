@@ -31,7 +31,7 @@
                         bindings = <
    &trans  &kp Q  &kp W  &kp E  &kp R  &kp T    &kp Y  &kp U  &kp I      &kp O    &kp P     &trans
    &trans  &kp A  &kp S  &kp D  &kp F  &kp G    &kp H  &kp J  &kp K      &kp L    &kp SEMI  &trans
-   &trans  &kp Z  &kp X  &kp C  &kp V  &kp B    &kp N  &kp M  &kp COMMA  &kp DOT  &kp SLH   &tran
+   &trans  &kp Z  &kp X  &kp C  &kp V  &kp B    &kp N  &kp M  &kp COMMA  &kp DOT  &kp SLH   &trans
    &mt LALT ESC  &mt LCTRL TAB &kp LSHFT        &kp SPACE  &lt NUM RET  &mo FUN
                         >;
                 };
@@ -48,7 +48,7 @@
    &trans  &kp F1      &kp F2        &kp F3        &kp F4        &kp F5          &kp F6        &kp F7  &kp F8     &kp F9    &kp F10   &trans
    &trans  &trans      &trans        &trans        &trans        &trans          &trans        &trans  &trans     &kp F11   &kp F12   &trans
    &trans  &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3    &bt BT_SEL 4  &trans  &kp PSCRN  &kp SLCK  &kp PAUSE_BREAK &trans
-   &mt LCTRL ESC  &mt LALT TAB &mt LSHFT RET          &mt RSHFT SPACE  &trans &trans
+   &mt LALT ESC  &mt LCTRL TAB &kp LSHFT                          &kp SPACE  &trans  &trans 
                         >;
                 };
         };
